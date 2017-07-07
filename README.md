@@ -1,16 +1,7 @@
-SimpleGUI
+Bank service
 =========
 
-Simple GUI template in Tkinter 
-
-Or just the simplest GUI in the known Universe 
-
-To open it:
-
- `python src/MainApp.py`
-
-or 
-
- `./run` 
+Simple bank service built in Python, to demonstrate the use of Kerberos Library Edit
+Add topics
 
 
